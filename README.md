@@ -24,9 +24,9 @@ Moving averages are calculated to used in the line chart.
 
 ## Clear data visualization
 • Creating a line chart
-• Click the Insert tab, then click Line.
-• Select the data to plot in chart.
-• Select line chart style.
+- Click the Insert tab, then click Line.
+- Select the data to plot in chart.
+- Select line chart style.
 
 • Making title, and clear legend
   
