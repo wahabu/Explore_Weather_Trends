@@ -17,20 +17,21 @@ select year, avg_temp
 from global_data
 ```
 
-• Download both extracted data and open CSV file by excel Microsoft application put each one separating on sheet
+• Download both extracted data and open CSV file by excel Microsoft application put each one separating on sheet.
   
 ## Manipulate data
-• Moving averages are calculated to used in the line chart
+Moving averages are calculated to used in the line chart.
 
 ## Clear data visualization
-### Creating a line chart
-> • Click the Insert tab, then click Line
-> • Select the data to plot in chart
-> • Select line chart style
-### Making title, and clear legend
+• Creating a line chart
+• Click the Insert tab, then click Line.
+• Select the data to plot in chart.
+• Select line chart style.
+
+• Making title, and clear legend
   
 ## Interpret a data visualization
-• Writing our accurate observations about their provided data visualization.
+Writing our accurate observations about their provided data visualization.
 
 ## License
 Licensed under the [MIT License](LICENSE)
